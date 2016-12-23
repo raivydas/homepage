@@ -1,6 +1,6 @@
 # Raivydas Šimėnas
 
-![Picture](~/raivydaspic.jpg)
+![Picture](https://uosis.mif.vu.lt/~raivydas/raivydaspic.jpg)
 
 ## Current position
 
@@ -8,7 +8,7 @@
 
 ## Teaching
 
-- [Process theory](~/processtheory.md)
+- [Process Theory](https://uosis.mif.vu.lt/~raivydas/processtheory.html)
 
 ## Education
 
@@ -41,3 +41,9 @@
 - On the zeros of the extended Selberg class functions and of their derivatives, *56th Lithuanian Mathematical Society Conference*, Kaunas University of Technology, Kaunas, Lithuania, June 16-17, 2015.
 - Visit at Würzburg University, Würzburg, Germany, November 24-30, 2014.
 - On the zeros of the extended Selberg class functions and of their derivatives, *27th Journées Arithmétiques*, Vilnius University, Vilnius, Lithuania, June 27-July 1, 2011.
+
+## Links
+
+- My [GitHub](https://github.com/raivydas) profile.
+- My [LinkedIn](https://linkedin.com/in/rsimenas) profile.
+- My [Facebook](https://facebook.com/rsimenas) profile.
