@@ -8,7 +8,16 @@
 
 ## Teaching
 
+### Current courses
+
 - [Process Theory](https://uosis.mif.vu.lt/~raivydas/processtheory.html)
+
+### Previous courses
+
+- Java Technologies
+- Selected Topics in Complex Analysis (Modular Forms)
+- Algebra II
+- Selected Topics in Functional Analysis
 
 ## Education
 
@@ -29,7 +38,7 @@
 - The *a*-points of the Selberg zeta-function are distributed uniformly modulo one. *Illinois J. Math.*, 58(1):207-218, 2014 (with Ramūnas Garunkštis and Jörn Steuding).
 - The *a*-values of the Selberg zeta-function. *Lith. Math. J.*, 52(2):145-154, 2012 (with Ramūnas Garunkštis).
 - Russell's paradox and ways to solve it. *Mathematics and Mathematical Modeling*, 5:11-18, 2009.
-- The Kantian paradox, *Missouri Valley Journal of Social Science*, 6(1):1-6, 2002.
+- The Kantian paradox. *Missouri Valley Journal of Social Science*, 6(1):1-6, 2002.
 
 ## Conferences and visits
 
