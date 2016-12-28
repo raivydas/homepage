@@ -1,6 +1,6 @@
 # Raivydas Šimėnas
 
-![Picture](https://uosis.mif.vu.lt/~raivydas/raivydaspic.jpg)
+![Picture](./raivydaspic.jpg)
 
 ## Current position
 
@@ -15,8 +15,8 @@
 ### Previous courses
 
 - Java Technologies
-- Selected Topics in Complex Analysis (Modular Forms)
-- Algebra II
+- Selected Topics in Complex Analysis (Modular Forms, practice classes)
+- Algebra II (practice classes)
 - Selected Topics in Functional Analysis
 
 ## Education
@@ -24,6 +24,7 @@
 - PhD in Mathematics, Vilnius University, 2016.
 - MSc. in Mathematics, Vilnius University, *magna cum laude*, 2012.
 - BSc. in Mathematics, Vilnius University, *cum laude*, 2010.
+- Political Science, Washington University in St. Louis (unfinished).
 - BSc. in Computer Science (major) and Philosophy (minor), Creighton University, *summa cum laude*, 2004.
 
 ## Academic interests
@@ -38,6 +39,7 @@
 - The *a*-points of the Selberg zeta-function are distributed uniformly modulo one. *Illinois J. Math.*, 58(1):207-218, 2014 (with Ramūnas Garunkštis and Jörn Steuding).
 - The *a*-values of the Selberg zeta-function. *Lith. Math. J.*, 52(2):145-154, 2012 (with Ramūnas Garunkštis).
 - Russell's paradox and ways to solve it. *Mathematics and Mathematical Modeling*, 5:11-18, 2009.
+- Applying fuzzy set theory to comparative politics. In Terry D. Clark, Jennifer M. Larson, John N. Mordeson, Joshua D. Potter, Mark J. Wierman, *Applying Fuzzy Mathematics to Comparative Politics*, 1-27, 2008 (with Terry D. Clark).
 - The Kantian paradox. *Missouri Valley Journal of Social Science*, 6(1):1-6, 2002.
 
 ## Conferences and visits
