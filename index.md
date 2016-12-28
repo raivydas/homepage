@@ -39,7 +39,7 @@
 - The *a*-points of the Selberg zeta-function are distributed uniformly modulo one. *Illinois J. Math.*, 58(1):207-218, 2014 (with Ramūnas Garunkštis and Jörn Steuding).
 - The *a*-values of the Selberg zeta-function. *Lith. Math. J.*, 52(2):145-154, 2012 (with Ramūnas Garunkštis).
 - Russell's paradox and ways to solve it. *Mathematics and Mathematical Modeling*, 5:11-18, 2009.
-- Applying fuzzy set theory to comparative politics. In Terry D. Clark, Jennifer M. Larson, John N. Mordeson, Joshua D. Potter, Mark J. Wierman, *Applying Fuzzy Mathematics to Comparative Politics*, 1-27, 2008 (with Terry D. Clark).
+- Applying fuzzy set theory to comparative politics. In Terry D. Clark, Jennifer M. Larson, John N. Mordeson, Joshua D. Potter, Mark J. Wierman, *Applying Fuzzy Mathematics to Comparative Politics*, 1-27, Berlin Heidelberg: Springer, 2008 (with Terry D. Clark).
 - The Kantian paradox. *Missouri Valley Journal of Social Science*, 6(1):1-6, 2002.
 
 ## Conferences and visits
